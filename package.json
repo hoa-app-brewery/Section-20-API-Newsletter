@@ -1,0 +1,14 @@
+{
+  "name": "newsletter_signup_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hoa Do",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
