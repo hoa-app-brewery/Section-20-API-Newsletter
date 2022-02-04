@@ -2,7 +2,7 @@
 //const res = require("express/lib/response");
 const express = require(`express`);
 const https = require(`https`);
-const port = 3000;
+const PORT = process.env.PORT || 3000;
 
 const app = express();
 app.use(express.json());
@@ -70,8 +70,8 @@ app.post(`/success`, function (req, res) {
 });
 
 
-app.listen(3000 || process.env.PORT, function () {
-  console.log(`Server is running on port: 3000!`);
+app.listen(PORT, function () {
+  console.log(`App is running on port: ${PORT}!`);
 });
 
 
