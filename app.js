@@ -84,6 +84,16 @@ app.listen(PORT, function () {
 // Mail Chimp API Endpoint
 // https://<dc>.api.mailchimp.com/3.0/
 
+// @@@ Project Uses These Techs @@@ //
+// Using heroku in git bash: https://stackoverflow.com/questions/46399773/push-from-git-bash-to-heroku
+// Cloud App Platform: Heroku
+// API Platform: postman
+// openweathermap API
+// MailChimp API Docs: https://mailchimp.com/developer/marketing/api/lists/
+
+// Git Changing UserName & UserEmail: https://stackoverflow.com/questions/22058041/commit-without-setting-user-name-and-email
+// Git Cheatsheer: https://education.github.com/git-cheat-sheet-education.pdf
+
 
 
 
