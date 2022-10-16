@@ -47,7 +47,7 @@ This is a simple site with a sign up page to a mock newsletter using the Mailchi
 <a href="https://www.repostatus.org/#inactive"><img src="https://www.repostatus.org/badges/latest/inactive.svg" height="30"/></a>
 
 ### Known Issues
-Use this section to list currently known unresolved problems with the project.
+
 * API key no longer works
 * Heroku free tier hosting getting removed soon
 
