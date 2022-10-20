@@ -18,6 +18,7 @@ This is a simple site with a sign up page to a mock newsletter using the Mailchi
 * Success and failure page to immediately inform users of sign up success
 * API to handle sign up requests and automatically adds user to a mailing list
 * Hosted live on a cloud service so app is accessible anywhere
+* Server that handles email signup submission process
 
 ### Built With
 
@@ -27,6 +28,11 @@ This is a simple site with a sign up page to a mock newsletter using the Mailchi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+* Back End
+
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
 * Other
 
@@ -60,7 +66,7 @@ Things I learned:
 * Working with APIs
 * Sending data through APIs
 * Working with cloud hosting service to launch app
-
+* Working with the backend and handling user requests
 
 
 <p align="right">(<a href="#top-of-page">Back to Top</a>)</p>
